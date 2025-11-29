@@ -1,0 +1,17 @@
+langchain-groq
+langchain-mcp-adapters
+mcp
+langgraph
+langchain
+ollama
+langchain-ollama
+langchain-chroma
+llama-index
+llama-index-llms-ollama
+llama-index-tools-mcp
+nest-asyncio
+langchain-core
+langchain-community
+fastmcp
+httpx
+langchain_classic

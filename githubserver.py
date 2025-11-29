@@ -35,9 +35,6 @@ def load_github_repo_context(owner: str = "Agilan20", repo: str = "earmark-servi
 
     files = [item for item in tree_json["tree"] if item["type"] == "blob"]
 
-    print(files)
-
-
     repo_context = {}
 
     # Step 2 — Download contents of each file
